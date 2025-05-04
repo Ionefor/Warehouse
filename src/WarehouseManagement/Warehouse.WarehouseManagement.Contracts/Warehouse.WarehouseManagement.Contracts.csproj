@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\ProductPlacement\Warehourse.ProductPlacement.Contracts\Warehourse.ProductPlacement.Contracts.csproj" />
+      <ProjectReference Include="..\..\Shared\Warehouse.Core\Warehouse.Core.csproj" />
+      <ProjectReference Include="..\..\Shared\Warehouse.SharedKernel\Warehouse.SharedKernel.csproj" />
+    </ItemGroup>
+
+</Project>

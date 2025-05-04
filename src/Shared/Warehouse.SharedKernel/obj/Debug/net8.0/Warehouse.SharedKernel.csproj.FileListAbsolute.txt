@@ -1,0 +1,12 @@
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\bin\Debug\net8.0\Warehouse.SharedKernel.deps.json
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\bin\Debug\net8.0\Warehouse.SharedKernel.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\bin\Debug\net8.0\Warehouse.SharedKernel.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\Warehouse.SharedKernel.csproj.AssemblyReference.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\Warehouse.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\Warehouse.SharedKernel.AssemblyInfoInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\Warehouse.SharedKernel.AssemblyInfo.cs
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\Warehouse.SharedKernel.csproj.CoreCompileInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\Warehouse.SharedKernel.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\refint\Warehouse.SharedKernel.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\Warehouse.SharedKernel.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.SharedKernel\obj\Debug\net8.0\ref\Warehouse.SharedKernel.dll

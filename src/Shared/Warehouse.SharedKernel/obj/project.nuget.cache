@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PIDDDwyhp84=",
+  "success": true,
+  "projectFilePath": "G:\\Programming\\.Net\\Current Projects\\Warehouse\\src\\Shared\\Warehouse.SharedKernel\\Warehouse.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusev\\.nuget\\packages\\csharpfunctionalextensions\\3.6.0\\csharpfunctionalextensions.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

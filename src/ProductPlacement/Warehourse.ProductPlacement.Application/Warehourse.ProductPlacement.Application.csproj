@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Shared\Warehouse.Core\Warehouse.Core.csproj" />
+      <ProjectReference Include="..\..\WarehouseManagement\Warehouse.WarehouseManagement.Contracts\Warehouse.WarehouseManagement.Contracts.csproj" />
+      <ProjectReference Include="..\Warehourse.ProductPlacement.Contracts\Warehourse.ProductPlacement.Contracts.csproj" />
+      <ProjectReference Include="..\Warehourse.ProductPlacement.Domain\Warehourse.ProductPlacement.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.0.0-preview1" />
+      <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="9.0.0" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.0-preview.1.25080.5" />
+      <PackageReference Include="Scrutor" Version="6.0.1" />
+      <PackageReference Include="Serilog" Version="4.2.1-dev-02352" />
+      <PackageReference Include="StackExchange.Redis" Version="2.8.31" />
+    </ItemGroup>
+
+</Project>

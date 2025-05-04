@@ -1,0 +1,17 @@
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\bin\Debug\net8.0\Warehouse.Framework.deps.json
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\bin\Debug\net8.0\Warehouse.Framework.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\bin\Debug\net8.0\Warehouse.Framework.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\bin\Debug\net8.0\Warehouse.Core.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\bin\Debug\net8.0\Warehouse.SharedKernel.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\bin\Debug\net8.0\Warehouse.Core.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\bin\Debug\net8.0\Warehouse.SharedKernel.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehouse.Framework.csproj.AssemblyReference.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehouse.Framework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehouse.Framework.AssemblyInfoInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehouse.Framework.AssemblyInfo.cs
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehouse.Framework.csproj.CoreCompileInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehous.54102D97.Up2Date
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehouse.Framework.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\refint\Warehouse.Framework.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\Warehouse.Framework.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Framework\obj\Debug\net8.0\ref\Warehouse.Framework.dll

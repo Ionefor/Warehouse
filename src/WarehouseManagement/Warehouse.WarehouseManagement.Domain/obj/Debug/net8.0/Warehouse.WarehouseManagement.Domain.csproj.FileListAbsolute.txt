@@ -1,0 +1,15 @@
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\bin\Debug\net8.0\Warehouse.WarehouseManagement.Domain.deps.json
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\bin\Debug\net8.0\Warehouse.WarehouseManagement.Domain.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\bin\Debug\net8.0\Warehouse.WarehouseManagement.Domain.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\bin\Debug\net8.0\Warehouse.SharedKernel.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\bin\Debug\net8.0\Warehouse.SharedKernel.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehouse.WarehouseManagement.Domain.csproj.AssemblyReference.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehouse.WarehouseManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehouse.WarehouseManagement.Domain.AssemblyInfoInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehouse.WarehouseManagement.Domain.AssemblyInfo.cs
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehouse.WarehouseManagement.Domain.csproj.CoreCompileInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehous.3236B78A.Up2Date
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehouse.WarehouseManagement.Domain.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\refint\Warehouse.WarehouseManagement.Domain.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\Warehouse.WarehouseManagement.Domain.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\WarehouseManagement\Warehouse.WarehouseManagement.Domain\obj\Debug\net8.0\ref\Warehouse.WarehouseManagement.Domain.dll

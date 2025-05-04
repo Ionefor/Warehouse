@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EFCore.NamingConventions" Version="9.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="10.0.0-preview.1.25080.5" />
+      <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="10.0.0-preview.1.25080.5" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\ProductPlacement\Warehourse.ProductPlacement.Contracts\Warehourse.ProductPlacement.Contracts.csproj" />
+      <ProjectReference Include="..\..\Shared\Warehouse.Core\Warehouse.Core.csproj" />
+      <ProjectReference Include="..\Warehouse.WarehouseManagement.Application\Warehouse.WarehouseManagement.Application.csproj" />
+      <ProjectReference Include="..\Warehouse.WarehouseManagement.Contracts\Warehouse.WarehouseManagement.Contracts.csproj" />
+    </ItemGroup>
+
+</Project>

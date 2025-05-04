@@ -1,0 +1,15 @@
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\bin\Debug\net8.0\Warehourse.ProductPlacement.Domain.deps.json
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\bin\Debug\net8.0\Warehourse.ProductPlacement.Domain.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\bin\Debug\net8.0\Warehourse.ProductPlacement.Domain.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\bin\Debug\net8.0\Warehouse.SharedKernel.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\bin\Debug\net8.0\Warehouse.SharedKernel.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehourse.ProductPlacement.Domain.csproj.AssemblyReference.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehourse.ProductPlacement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehourse.ProductPlacement.Domain.AssemblyInfoInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehourse.ProductPlacement.Domain.AssemblyInfo.cs
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehourse.ProductPlacement.Domain.csproj.CoreCompileInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehour.C3317A5F.Up2Date
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehourse.ProductPlacement.Domain.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\refint\Warehourse.ProductPlacement.Domain.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\Warehourse.ProductPlacement.Domain.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\ProductPlacement\Warehourse.ProductPlacement.Domain\obj\Debug\net8.0\ref\Warehourse.ProductPlacement.Domain.dll

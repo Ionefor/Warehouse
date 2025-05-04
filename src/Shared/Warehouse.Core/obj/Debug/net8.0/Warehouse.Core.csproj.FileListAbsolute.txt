@@ -1,0 +1,15 @@
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\bin\Debug\net8.0\Warehouse.Core.deps.json
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\bin\Debug\net8.0\Warehouse.Core.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\bin\Debug\net8.0\Warehouse.Core.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\bin\Debug\net8.0\Warehouse.SharedKernel.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\bin\Debug\net8.0\Warehouse.SharedKernel.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.csproj.AssemblyReference.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.AssemblyInfoInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.AssemblyInfo.cs
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.csproj.CoreCompileInputs.cache
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehous.2ED25292.Up2Date
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\refint\Warehouse.Core.dll
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\Warehouse.Core.pdb
+G:\Programming\.Net\Current Projects\Warehouse\src\Shared\Warehouse.Core\obj\Debug\net8.0\ref\Warehouse.Core.dll
